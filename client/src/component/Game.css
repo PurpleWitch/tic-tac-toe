@@ -1,0 +1,37 @@
+.scoreboared{
+    margin: 20px;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: crimson;
+}
+.pname{
+    padding-right: 20px;
+    height: 30px;
+}
+.pname:hover{
+    border:2px solid red;
+    background-color: rgba(0, 255, 255, 0.318); 
+    transition: 0.5s;
+}
+.play{
+    background-color: blue;
+    height: 50px;
+    font-size: larger;
+}
+.reset{
+    background-color: darkgoldenrod;
+    float: right;
+    height: 50px;
+    font-size: larger;
+}
+.play:hover{
+    color : red;
+    transition: 0.5s;
+} 
+.reset:hover{
+    color : red;
+    transition: 0.5s;
+}
